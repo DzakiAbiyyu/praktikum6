@@ -77,7 +77,7 @@ while True:
     	nama = input("Masukkan Nama : ")
     	hapus(nama)
     elif user.lower() == 'u':
-    	nama = input("Masukkan Namaa : ")
+    	nama = input("Masukkan Nama : ")
     	ubah(nama)
     elif user.lower() == 'l':
     	tampilkan()
