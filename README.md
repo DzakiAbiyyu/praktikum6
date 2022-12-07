@@ -1,2 +1,3 @@
-# praktikum6
-penyimpanan tugas bahasa pemrograman pertemuan 11
+# flowchart
+![flowchart](/gambar/flowchart.jpg)
+
